@@ -30,6 +30,9 @@
           <p class="text-4xl">
             Happy Birthday!
           </p>
+          <p class="text-lg pt-8">
+            We'd love to get you a present but were a bit out of ideas. So if you have any we'd love to hear them!
+          </p>
         </div>
       </div>
     </transition>
