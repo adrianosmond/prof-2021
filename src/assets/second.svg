@@ -1,0 +1,65 @@
+<svg viewBox="0 0 264 280" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path d="M124 144.6V163h4a72 72 0 0172 72v9H0v-9a72 72 0 0172-72h4v-18.4A56 56 0 0144.3 100 12 12 0 0134 88V74a12 12 0 0110-11.8V56a56 56 0 11112 0v6.2A12 12 0 01166 74v14c0 6-4.5 11-10.3 11.9a56 56 0 01-31.7 44.7z" id="a"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <g mask="url(#mask-4)">
+      <g transform="translate(32 36)">
+        <mask id="b" fill="#fff">
+          <use xlink:href="#a"/>
+        </mask>
+        <use fill="#D0C6AC" xlink:href="#a"/>
+        <g mask="url(#b)" fill="#EDB98A">
+          <path d="M-32 0h264v244H-32z"/>
+        </g>
+        <path d="M156 79v23a56 56 0 11-112 0V79v15a56 56 0 10112 0V79z" fill-opacity=".1" fill="#000" mask="url(#b)"/>
+      </g>
+      <g transform="translate(0 170)">
+        <defs>
+          <path d="M166 29.3c37 3 66 34 66 71.8v8.9H32v-9a72 72 0 0167-71.8v1.1c0 12 15 21.5 33.5 21.5S166 42.2 166 30.3v-1z" id="c"/>
+        </defs>
+        <mask id="d" fill="#fff">
+          <use xlink:href="#c"/>
+        </mask>
+        <use fill="#E6E6E6" xlink:href="#c"/>
+        <g mask="url(#d)" fill="#25557C">
+          <path d="M0 0h264v110H0z"/>
+        </g>
+        <g opacity=".6" mask="url(#d)" fill-opacity=".2" fill="#000">
+          <ellipse cx="40.5" cy="27.8" rx="39.6" ry="26.9" transform="translate(92 4)"/>
+        </g>
+      </g>
+      <g fill="#000">
+        <rect x="42" y="18" width="24" height="6" rx="3" transform="translate(78 134)" fill-opacity=".7"/>
+        <path d="M120 130c0 4.4 5.4 8 12 8s12-3.6 12-8" fill-opacity=".2"/>
+        <g transform="translate(76 90)" fill-opacity=".6">
+          <circle cx="30" cy="22" r="6"/>
+          <circle cx="82" cy="22" r="6"/>
+        </g>
+        <g fill-opacity=".6">
+          <path d="M102.5 88.1c-5.8.3-15.1 4.5-15 10.4.1.2.4.3.5.1 2.8-3 22.3-6 29.2-4.3.7.1 1.1-.5.7-1-3.4-3.8-10.2-5.4-15.4-5.2"/>
+          <path d="M162.5 88.1c5.8.3 15.1 4.5 15 10.4-.1.2-.4.3-.5.1-2.8-3-22.3-6-29.2-4.3-.7.1-1.1-.5-.7-1 3.4-3.8 10.2-5.4 15.4-5.2"/>
+        </g>
+      </g>
+      <defs>
+        <path id="e" d="M0 0h264v280H0z"/>
+        <path d="M8.5 88.7A12 12 0 008 92v13c0 6 4.4 11 10.2 11.9A56 56 0 0050 162.6V181h-4c-15.6 0-30 5-41.9 13.4A73.9 73.9 0 010 170V74a74 74 0 01148 0v96c0 8.6-1.5 16.8-4.1 24.4A71.7 71.7 0 00102 181h-4v-18.4a56 56 0 0031.8-45.7A12 12 0 00140 105V92a12 12 0 00-1-4.8c-13-2.1-27.5-7.4-41.9-15.7-12-7-22.5-15.2-30.4-23.7C70 55.7 74.2 62.6 79 68.5A45.8 45.8 0 0153.2 42L52 44.7c-9.8 22-26.4 38-43.5 44z" id="g"/>
+      </defs>
+      <mask id="f" fill="#fff">
+        <use xlink:href="#e"/>
+      </mask>
+      <g mask="url(#f)">
+        <g transform="translate(58 18)">
+          <mask id="h" fill="#fff">
+            <use xlink:href="#g"/>
+          </mask>
+          <use fill="#ECC797" xlink:href="#g"/>
+          <g mask="url(#h)" fill="#B58143">
+            <path d="M0 0h264v280H0z"/>
+          </g>
+        </g>
+        <path d="M58 102.4v6.4c20-3 40.6-20.4 52-46.1l1.2-2.8a45 45 0 0021.3 24.4c1.5 2.2 3 4.3 4.6 6.2A45.8 45.8 0 01111.2 64l-1.2 2.8c-11.4 25.7-32 43-52 46.1v-10.4zm148-1.3v9.2a137.4 137.4 0 01-77.5-36.6 98.5 98.5 0 01-3.8-8c8 8.6 18.3 16.8 30.4 23.8 17.8 10.2 36 16 50.9 16.8V101z" fill-opacity=".2" fill="#000"/>
+      </g>
+    </g>
+  </g>
+</svg>
